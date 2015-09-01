@@ -3,7 +3,7 @@ package cn.com.taleair.connpool;
 import java.sql.Connection;
 
 /**
- *中国电子科技集团公司第三十二研究所
+ *cn.com.taleair
  *@author Joshua Ding
  *@time 2015年1月12日 下午4:45:21
  *@version 1.0.0

@@ -8,7 +8,7 @@ import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.LinkedBlockingQueue;
 
 /**
- *中国电子科技集团公司第三十二研究所
+ *cn.com.taleair
  *@author Joshua Ding
  *@time 2015年1月12日 下午5:58:05
  *@version 1.0.0
