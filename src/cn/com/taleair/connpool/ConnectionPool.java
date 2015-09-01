@@ -1,4 +1,4 @@
-package cn.com.cetc32.connpool;
+package cn.com.taleair.connpool;
 
 import java.sql.Connection;
 

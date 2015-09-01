@@ -1,4 +1,4 @@
-package cn.com.cetc32.connpool;
+package cn.com.taleair.connpool;
 /**
  *中国电子科技集团公司第三十二研究所
  *@author Joshua Ding
